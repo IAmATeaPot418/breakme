@@ -26,7 +26,7 @@
         <curator.version>2.13.0</curator.version>
         <apache.version>4.1</apache.version>
         <objenesis.version>2.1</objenesis.version>
-        <jackson.version>2.12.1</jackson.version>
+        <jackson.version>2.18.0</jackson.version>
         <lombok.version>1.18.4</lombok.version>
         <nacos.version>1.4.1</nacos.version>
     </properties>
